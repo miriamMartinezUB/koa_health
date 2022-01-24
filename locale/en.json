@@ -1,0 +1,42 @@
+{
+  "common_texts":{
+    "done": "Done",
+    "ok": "Ok"
+  },
+  "program": {
+    "title": "Program"
+  },
+  "messages": {
+    "title": "Messages"
+  },
+  "thoughts": {
+    "title": "Thoughts",
+    "empty_data_title": "This is your Thoughts diary",
+    "empty_data_body": "Here you can log your thoughts and reflect on them. You can log both positive and negative thoughts. You should do so once a day.",
+    "add_title": "Add a thought",
+    "feeling_question": "How are you feeling?",
+    "think_question": "What is going through your head right now?",
+    "evidence_question": "Is there any evidence your through is true?"
+  },
+  "me": {
+    "title": "Me"
+  },
+  "errors": {
+    "not_implemented": "We are working on this page, you will it see as soon as possible",
+    "not_all_mandatory_question_are_answered": "Please answer all mandatory questions"
+  },
+  "month": {
+    "1":"January",
+    "2":"February",
+    "3":"March",
+    "4": "April",
+    "5": "May",
+    "6":"June",
+    "7": "July",
+    "8":"August",
+    "9": "September",
+    "10":"October",
+    "11": "November",
+    "12":"December"
+  }
+}
