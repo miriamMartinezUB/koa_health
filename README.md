@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 run the next command line to autogenerate serialization objects
-#####flutter pub run build_runner build
+
+##### flutter pub run build_runner build
